@@ -1,1 +1,1 @@
-print("Hello Auutotest!")
+print("Hello Autotest!")
