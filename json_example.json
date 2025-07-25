@@ -1,0 +1,14 @@
+{
+  "name": "Iva",
+  "age": 30,
+  "is_student": false,
+  "corses": [
+    "Python",
+    "QA Avtom",
+    "api"
+  ],
+  "address": {
+    "city": "Bryansk",
+    "zip": "010011"
+  }
+}
